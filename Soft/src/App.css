@@ -1,0 +1,15 @@
+.redBlock {
+  background-color:#CF0101;
+  width: 500px;
+  height: 150px;
+  margin: auto;
+  margin-top: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.title{
+  text-align: center;
+}
