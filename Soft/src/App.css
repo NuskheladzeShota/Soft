@@ -13,3 +13,124 @@
 .title{
   text-align: center;
 }
+
+.header{
+  width: 100%;
+  height: 55px;
+  background-color: #FFA826;
+  margin: auto;
+}
+
+.littleHeader {
+  width: 800px;
+  height: 77px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.Geo{
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+
+.Phone{
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+
+.icon{
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+
+.icon1{
+  width: 34px;
+  height: 33px;
+  
+}
+
+.leftFooter, .rightFooter {
+  display: flex;
+  gap: 20px;
+}
+
+.welcomePage {
+  width: 500px;
+  height: 150px;
+  background-color: #CF0101;
+  margin:auto;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column
+}
+
+.h1 {
+  color: aliceblue;
+  margin: auto;
+}
+
+.firstInput, .secondInput {
+  width: 334px;
+  height: 33px;
+  background-color: #989083;
+}
+
+.password {
+  color: #FFFFFF;
+}
+
+.email {
+  color: #FFFFFF;
+}
+.input1 {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.input2 {
+  display: flex;
+  align-items:  center;
+  gap:  20px;
+}
+
+.submit {
+  width: 112px;
+  height: 20px;
+  border-radius: 10px;
+}
+
+.loginButton {
+  width: 112px;
+  position: absolute;
+  height: 20px;
+  margin-top: 185px;
+  border-radius: 10px;
+}
+
+.Dashboard {
+  width: 199px;
+  height: 458px;
+  background-color: #FFA826;
+}
+
+.Dashboard {
+  text-align: center;
+
+}
+
+.addForm {
+  
+}
+
+.addButton {
+cursor: pointer;
+width: 95px;
+height: 43px;
+border-radius: 10px;
+
+}
